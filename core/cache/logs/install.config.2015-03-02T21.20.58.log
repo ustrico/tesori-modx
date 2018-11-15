@@ -1,0 +1,13 @@
+[2015-03-02 21:21:00] (ERROR @ /setup/index.php) Could not copy d:/os/domains/tesori/core/packages/core/modContext/8c26af9c3c6f187c72f54c09c2a380b3/0/ to d:/os/domains/tesori/index.php
+[2015-03-02 21:21:00] (ERROR @ /setup/index.php) Could not copy d:/os/domains/tesori/core/packages/core/modContext/8c26af9c3c6f187c72f54c09c2a380b3/1/ to d:/os/domains/tesori/ht.access
+[2015-03-02 21:21:00] (ERROR @ /setup/index.php) Could not copy d:/os/domains/tesori/core/packages/core/modContext/78f9a8a8a57483be387752d3e2721e3c/0/ to d:/os/domains/tesori/manager/assets
+[2015-03-02 21:21:00] (ERROR @ /setup/index.php) Could not copy d:/os/domains/tesori/core/packages/core/modContext/78f9a8a8a57483be387752d3e2721e3c/1/ to d:/os/domains/tesori/manager/controllers
+[2015-03-02 21:21:00] (ERROR @ /setup/index.php) Could not copy d:/os/domains/tesori/core/packages/core/modContext/78f9a8a8a57483be387752d3e2721e3c/2/ to d:/os/domains/tesori/manager/templates
+[2015-03-02 21:21:00] (ERROR @ /setup/index.php) Could not copy d:/os/domains/tesori/core/packages/core/modContext/78f9a8a8a57483be387752d3e2721e3c/3/ to d:/os/domains/tesori/manager/min
+[2015-03-02 21:21:00] (ERROR @ /setup/index.php) Could not copy d:/os/domains/tesori/core/packages/core/modContext/78f9a8a8a57483be387752d3e2721e3c/4/ to d:/os/domains/tesori/manager/ht.access
+[2015-03-02 21:21:00] (ERROR @ /setup/index.php) Could not copy d:/os/domains/tesori/core/packages/core/modContext/78f9a8a8a57483be387752d3e2721e3c/5/ to d:/os/domains/tesori/manager/cache.manifest.php
+[2015-03-02 21:21:00] (ERROR @ /setup/index.php) Could not copy d:/os/domains/tesori/core/packages/core/modContext/78f9a8a8a57483be387752d3e2721e3c/6/ to d:/os/domains/tesori/manager/index.php
+[2015-03-02 21:21:00] (ERROR @ /setup/index.php) Could not install files from d:/os/domains/tesori/core/packages/core/xPDOFileVehicle/b74a8ab124b2c5cb079063fd023a906e/ to d:/os/domains/tesori/connectors/
+[2015-03-02 21:21:00] (ERROR @ /setup/index.php) Could not install files from d:/os/domains/tesori/core/packages/core/xPDOFileVehicle/4c1222226155ca5fc34f88c62ca57baa/ to d:/os/domains/tesori/connectors/
+[2015-03-02 21:21:00] (ERROR @ /setup/index.php) Could not install files from d:/os/domains/tesori/core/packages/core/xPDOFileVehicle/082548e247ca69715976e8acd111ff42/ to d:/os/domains/tesori/connectors/
+[2015-03-02 21:21:00] (ERROR @ /setup/index.php) Could not install files from d:/os/domains/tesori/core/packages/core/xPDOFileVehicle/921f4e2ef8d478bde16ec9b15a8d021e/ to d:/os/domains/tesori/connectors/

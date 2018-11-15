@@ -1,0 +1,57 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'unique_key' => 'text',
+  'related_objects' => 
+  array (
+    'Action' => 
+    array (
+      '8f56a5b7e67dd53590a8309f09a7768a' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => true,
+        'unique_key' => 
+        array (
+          0 => 'namespace',
+          1 => 'controller',
+        ),
+        'class' => 'modAction',
+        'object' => '{"id":1,"namespace":"formit","controller":"index","haslayout":1,"lang_topics":"formit:mgr","assets":"","help_url":"","parent":0}',
+        'guid' => '67711e86535270a758af4ea5e671408b',
+        'native_key' => 1,
+        'signature' => 'f8fd211500977395ee147e18cb649b48',
+      ),
+    ),
+  ),
+  'related_object_attributes' => 
+  array (
+    'Action' => 
+    array (
+      'preserve_keys' => false,
+      'update_object' => true,
+      'unique_key' => 
+      array (
+        0 => 'namespace',
+        1 => 'controller',
+      ),
+    ),
+  ),
+  'namespace' => 'formit',
+  'resolve' => 
+  array (
+    0 => 
+    array (
+      'type' => 'php',
+      'body' => '{"source":"formit-2.2.2-pl\\/modMenu\\/c60b929732df72b670e209b6f4cb1b9e.resolve.tables.resolver","type":"php","name":"resolve.tables"}',
+    ),
+  ),
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'df343650e63f31c6db63bfbdc7d9370d',
+  'package' => 'modx',
+  'class' => 'modMenu',
+  'signature' => 'c60b929732df72b670e209b6f4cb1b9e',
+  'native_key' => 'formit',
+  'object' => '{"text":"formit","parent":"components","action":1,"description":"formit.menu_desc","icon":"images\\/icons\\/plugin.gif","menuindex":0,"params":"","handler":"","permissions":"","namespace":"core"}',
+);

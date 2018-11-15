@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'formit',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'df5fd464d26ccafa20150d63e2bc134a',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'f242fa6a09c72da9744e89d7f7a0f8e4',
+  'native_key' => 'formit.recaptcha_use_ssl',
+  'object' => '{"key":"formit.recaptcha_use_ssl","value":false,"xtype":"combo-boolean","namespace":"formit","area":"reCaptcha","editedon":null}',
+);

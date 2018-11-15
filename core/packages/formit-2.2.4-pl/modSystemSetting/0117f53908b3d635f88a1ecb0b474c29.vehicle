@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'formit',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'b37e1dd7823ead4ac28e0b718ed6fbd7',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '0117f53908b3d635f88a1ecb0b474c29',
+  'native_key' => 'formit.exclude_contexts',
+  'object' => '{"key":"formit.exclude_contexts","value":"mgr","xtype":"textfield","namespace":"formit","area":"","editedon":null}',
+);
